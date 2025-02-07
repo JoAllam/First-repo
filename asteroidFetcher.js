@@ -8,5 +8,5 @@ fetch("https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_
 let asteroidReceived = [];
 
 for(i = 0; i < 10; i++) {
-
+    
 }
